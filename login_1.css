@@ -1,0 +1,63 @@
+body{
+    background: linear-gradient(to right,rgb(12, 12, 12),rgb(61, 11, 11),rgb(12, 12, 12));
+    text-align: center;
+    margin: 250px;
+   
+   
+}
+section{
+    max-width: 500px;
+    margin: 30px auto;
+    padding: 20px ;
+    border-radius: 10px;
+    background-color: rgba(137, 133, 127, 0.329);
+  
+}
+.form{
+    margin: 20% auto;
+}
+input{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid rgba(24, 2, 2, 0.727);
+    padding :1px 5px;
+    border-width: 2px;
+}
+input:hover{
+    
+    transform: scale(1.1);
+}
+button{
+    height: 25px;
+    width: 50px;
+    background: linear-gradient(to right,rgb(61, 11, 11),rgba(29, 1, 1, 0.718));
+    font-weight: lighter;
+    background-color: rgba(183, 30, 22, 0.263);
+    box-shadow: 6px 5px 10px rgb(54, 16, 16) ;
+    border-radius: 1px;
+    color: rgba(247, 243, 239, 0.699);
+    
+
+}
+button:hover{
+    transform: scale(1.1);
+}
+
+
+a{
+    justify-content: space-between;
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(180, 170, 170);
+    text-decoration: underline;
+    transform: scalez(1.1);
+}
+footer
+{
+    color: rgba(240, 248, 255, 0.541);
+}
+
+
+
